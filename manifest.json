@@ -1,0 +1,40 @@
+{
+    "name": "iCREAM",
+    "short_name": "iCREAM",
+    "description": "Traditional & Delicious Made From Our Own Organic Milk",
+    "theme_color": "#008000",
+    "background_color": "#008000",
+    "display": "standalone",
+    "scope": "/",
+    "lang": "es",
+    "id":"index.html",
+    "start_url": "index.html",
+    "icons": [
+      {
+        "src": "/iconos/icono192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/iconos/icono512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+
+    "screenshots":[
+        {
+            "src":"/img/SC_Pc.png",
+            "sizes":"1286x680",
+            "type":"image/png",
+            "form_factor":"wide"
+        },
+        {
+            "src":"/img/SC_Mb.png",
+            "sizes":"464x679",
+            "type":"image/png",
+            "form_factor":"narrow"
+        }
+    ]
+
+  }
